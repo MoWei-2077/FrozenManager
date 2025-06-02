@@ -1,4 +1,4 @@
-package io.github.jark006.freezeit;
+package io.github.MoWei.Frozen;
 
 public class ManagerCmd {
 
